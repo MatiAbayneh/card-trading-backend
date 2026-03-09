@@ -15,13 +15,13 @@ The relational schema supports:
 
 ## Tables
 
-users
-cards
-cardsToUsers
-decks
-userToDecks
-trades
-battle_logs
+- users
+- cards
+- cardsToUsers
+- decks
+- userToDecks
+- trades
+- battle_logs
 
 ## Tech Stack
 
